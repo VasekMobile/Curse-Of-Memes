@@ -1,0 +1,4 @@
+CurseOfMemesWebGL.data filter=lfs diff=lfs merge=lfs -text
+Build/CurseOfMemesWebGL.data filter=lfs diff=lfs merge=lfs -text
+Build/CurseOfMemesWebGL.data.gz filter=lfs diff=lfs merge=lfs -text
+Build/CurseOfMemesWebGL.data.unityweb filter=lfs diff=lfs merge=lfs -text
